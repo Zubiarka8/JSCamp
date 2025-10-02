@@ -1,12 +1,12 @@
 # Participación en JSCamp - Bootcamp Gratuito de Desarrollo Web
 
-Estoy participando en el bootcamp gratuito de desarrollo web llamado JSCamp, impartido en streaming por Midudev.
+Estoy participando en el bootcamp gratuito de full stack developer llamado JSCamp, impartido en streaming por Midudev.
 
 ## Sobre el Bootcamp JSCamp
 
 JSCamp es un bootcamp completo y gratuito para aprender programación web desde cero. El curso está diseñado para guiar a los participantes a través de los fundamentos del desarrollo web con práctica y teoría.
 
-## Contenidos cubiertos hasta ahora (HTML y CSS)
+## Contenidos cubiertos hasta ahora (01/10/2025)
 
 ### HTML
 - Fundamentos de la estructura de páginas web.
